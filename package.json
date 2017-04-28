@@ -1,0 +1,13 @@
+{
+  "name": "har-wrk",
+  "version": "1.0.0",
+  "description": "Converts requests in HAR file into benchmarking LUA script for wrk (https://github.com/wg/wrk/)",
+  "main": "index.js",
+  "scripts": { },
+  "author": "Logan Linn",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.5.0",
+    "underscore": "^1.8.3"
+  }
+}
